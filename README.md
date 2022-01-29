@@ -1,4 +1,4 @@
-![Book logo](C:\Users\vishd\Downloads\1704472.png)
+![Book logo](https://github.com/ReetuData/ReetuData/blob/main/1704472.png)
 
 # 👋 Hi, I’m @Reetu Sharma a Data Scientist 
 I am trying my best to add some cretivity and fun with data. 👀 I’m interested in math, statistic and machine learning. 🌱 I’m currently learning about all machine learning tools and techniques which can help me achieve my goal of deploying a project in real state field.
